@@ -1,3 +1,13 @@
+<h1 align="center">Josué Urrego · Ticonsky</h1>
+
+<p align="center">Perfil de Ingeniería de Sistemas con proyectos de backend, algoritmos y desarrollo web.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proyecto-Ingenier%C3%ADa%20de%20Sistemas-214b48" alt="Ingeniería de Sistemas">
+</p>
+
+[Laboratorio de Grafos y Búsquedas](https://github.com/PL-Ticonsky/SimuladorCC2) · [MemLab](https://github.com/PL-Ticonsky/memlab) · [Cóndor SGA](https://github.com/PL-Ticonsky/sistema_distribuido_gestion_academica)
+
 <h1 align="center">Hi, I'm Josué Urrego 👋</h1>
 
 <p align="center">
