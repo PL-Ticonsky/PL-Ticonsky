@@ -1,69 +1,76 @@
-<h1 align="center">Josué Urrego · Ticonsky</h1>
+<h1 align="center">Hola, soy Josué Urrego 👋</h1>
 
-<p align="center">Perfil de Ingeniería de Sistemas con proyectos de backend, algoritmos y desarrollo web.</p>
+<p align="center"><strong>Ticonsky</strong> · Ingeniería de Sistemas · Bogotá, Colombia</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Proyecto-Ingenier%C3%ADa%20de%20Sistemas-214b48" alt="Ingeniería de Sistemas">
-</p>
+<div align="center">
 
-[Laboratorio de Grafos y Búsquedas](https://github.com/PL-Ticonsky/SimuladorCC2) · [MemLab](https://github.com/PL-Ticonsky/memlab) · [Cóndor SGA](https://github.com/PL-Ticonsky/sistema_distribuido_gestion_academica)
+```text
+╭────────────────────────────────────╮
+│  ticonsky@bogota:~$ cat perfil     │
+│                                    │
+│      Backend y datos               │
+│      Algoritmos y simulación        │
+│      Web y desarrollo móvil        │
+╰────────────────────────────────────╯
+```
 
-<h1 align="center">Hi, I'm Josué Urrego 👋</h1>
+<a href="https://www.linkedin.com/in/ticonsky/"><img src="https://img.shields.io/badge/LinkedIn-ticonsky-17659b?style=flat-square" alt="LinkedIn de Ticonsky"></a>
+<a href="https://github.com/PL-Ticonsky/portafolio"><img src="https://img.shields.io/badge/Portafolio-Ver%20proyectos-5245a4?style=flat-square&logo=github" alt="Portafolio"></a>
+<a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Explorar-Proyectos-22705e?style=flat-square" alt="Proyectos destacados"></a>
 
-<p align="center">
-  Systems Engineering student • Backend development • Algorithms • Linux • Web platforms
-</p>
+</div>
 
----
+Estudio **Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas**. Me interesa entender qué pasa detrás de una interfaz: cómo una base de datos protege una reserva, cómo se recupera un temporizador al volver a la app o cómo un algoritmo llega a un resultado que podemos visualizar.
 
-## About me
+## Proyectos destacados
 
-I'm a **Systems Engineering student** at **Universidad Distrital Francisco José de Caldas**.  
-I like building practical software, solving algorithmic problems, and understanding how systems behave from both the software and infrastructure side.
+| Proyecto | Qué puedes explorar |
+| --- | --- |
+| **[Gestión Académica](https://github.com/PL-Ticonsky/Gestion-academica)** | Sistema académico distribuido con Django y PostgreSQL para inscripciones, notas, matrículas y homologaciones. |
+| **[Pulso](https://github.com/PL-Ticonsky/Pulso)** | Registro de tiempo para Android. Una sesión guardada en SQLite alimenta el reloj, la notificación y el widget. |
+| **[Propagplast](https://github.com/PL-Ticonsky/publicidad-web)** | Catálogo comercial con prueba de arte en el navegador, cotizador y solicitud preparada para WhatsApp. |
+| **[Barber API](https://github.com/PL-Ticonsky/Barber-API)** | Sistema de reservas con panel para el barbero y una restricción en PostgreSQL que evita citas superpuestas. |
 
-My recent work has been focused on **Python**, **FastAPI**, **Astro**, and **Linux-based development workflows**.
+### Más del taller
 
----
+- **Algoritmos y sistemas** · [Laboratorio de Grafos y Búsquedas](https://github.com/PL-Ticonsky/Laboratorio-de-Grafos-y-Busquedas) y [MemLab](https://github.com/PL-Ticonsky/Simulador-de-memoria).
+- **Juegos** · [Museum Heist](https://github.com/PL-Ticonsky/museum-heist), un juego de sigilo que conecta Pygame con un motor en C++.
+- **Interfaces y contenido** · [Scriptorium](https://github.com/PL-Ticonsky/Scriptorium), un cuaderno medieval con API REST, y [SembraAlas](https://github.com/PL-Ticonsky/SembraAlas), un recorrido web sobre reforestación.
 
-## Tech Stack
+## Tecnologías
 
-**Languages**  
-Python · JavaScript · SQL · HTML · CSS
+**Backend y datos**
 
-**Backend**  
-FastAPI · REST APIs · ORM-based architectures
+![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-087f73?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-165443?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-365c91?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-176185?style=flat-square&logo=sqlite&logoColor=white)
 
-**Frontend / Web**  
-Astro · Responsive UI · Static and content-driven websites
+**Web y móvil**
 
-**Tools & Environment**  
-Linux (Arch / EndeavourOS) · Git · GitHub · Docker
+![TypeScript](https://img.shields.io/badge/TypeScript-2366ab?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-edcf4a?style=flat-square&logo=javascript&logoColor=111)
+![Next.js](https://img.shields.io/badge/Next.js-252635?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-6a39aa?style=flat-square&logo=astro&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-21677b?style=flat-square&logo=react&logoColor=white)
 
----
+**Herramientas y simulación**
 
-## Featured Projects
+![C++](https://img.shields.io/badge/C%2B%2B-4054a7?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-e3b73f?style=flat-square&logo=linux&logoColor=111)
+![Git](https://img.shields.io/badge/Git-bf492d?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2469a7?style=flat-square&logo=docker&logoColor=white)
 
-### Astro Web Platform
-Performance-focused web platform built with **Astro**, emphasizing clean structure, responsive design, and maintainable architecture.
+## Lenguajes en mis repos públicos
 
-### Monte Carlo Simulation for Risk Analysis
-Project developed in **Python** to simulate uncertainty and support risk analysis through probabilistic modeling.
+```text
+TypeScript   ██████░░░░░░░░░░░░   3 repos
+JavaScript   ████░░░░░░░░░░░░░░   2 repos
+Python       ██░░░░░░░░░░░░░░░░   1 repo
+C++          ██░░░░░░░░░░░░░░░░   1 repo
+CSS          ██░░░░░░░░░░░░░░░░   1 repo
+TeX          ██░░░░░░░░░░░░░░░░   1 repo
+```
 
-### Backend API Systems
-A set of backend projects using **FastAPI**, databases, and ORM patterns to create functional and scalable APIs.
-
----
-
-## Current Focus
-
-- Backend architecture
-- Algorithms and problem solving
-- Linux workflows and automation
-- Distributed systems
-- High-performance web development
-
----
-
-## Connect with me
-
-- LinkedIn: [ticonsky](https://www.linkedin.com/in/ticonsky/)
+<sub>Instantánea del 15 de noviembre de 2026. Cuenta el lenguaje principal que GitHub detectó en cada uno de los 9 repositorios públicos clasificados.</sub>
