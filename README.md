@@ -1,24 +1,21 @@
-<h1 align="center">Hola, soy Josué Urrego 👋</h1>
+```text
+            ##      ##   ##########   ##           ##             ######
+           ##      ##   ##           ##           ##           ##      ##
+          ##      ##   ##           ##           ##           ##      ##
+         ##########   ########     ##           ##           ##      ##
+        ##      ##   ##           ##           ##           ##      ##
+       ##      ##   ##           ##           ##           ##      ##
+      ##      ##   ##########   ##########   ##########     ######
+```
 
 <p align="center"><strong>Ticonsky</strong> · Ingeniería de Sistemas · Bogotá, Colombia</p>
 
-<div align="center">
-
-```text
-╭────────────────────────────────────╮
-│  ticonsky@bogota:~$ cat perfil     │
-│                                    │
-│      Backend y datos               │
-│      Algoritmos y simulación        │
-│      Web y desarrollo móvil        │
-╰────────────────────────────────────╯
-```
-
+<p align="center">
 <a href="https://www.linkedin.com/in/ticonsky/"><img src="https://img.shields.io/badge/LinkedIn-ticonsky-17659b?style=flat-square" alt="LinkedIn de Ticonsky"></a>
 <a href="https://github.com/PL-Ticonsky/portafolio"><img src="https://img.shields.io/badge/Portafolio-Ver%20proyectos-5245a4?style=flat-square&logo=github" alt="Portafolio"></a>
 <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Explorar-Proyectos-22705e?style=flat-square" alt="Proyectos destacados"></a>
 
-</div>
+</p>
 
 Estudio **Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas**. Me interesa entender qué pasa detrás de una interfaz: cómo una base de datos protege una reserva, cómo se recupera un temporizador al volver a la app o cómo un algoritmo llega a un resultado que podemos visualizar.
 
